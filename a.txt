@@ -1,4 +1,6 @@
 
-aaabbbccccc
-cccc
+aaa
+bbb
+ccccc
+dddd
 
